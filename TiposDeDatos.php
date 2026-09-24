@@ -1,13 +1,13 @@
 <?php
 
-$mensaje = "Hola";
+    $mensaje = "Hola";
 
-$mensaje .= " Mundo";
+    $mensaje .= " Mundo";
 
-echo "<p>$mensaje</p>";
+    echo "<p>$mensaje</p>";
 
-$mensaje .= " Maravilloso";
+    $mensaje .= " Maravilloso";
 
-echo "<p>$mensaje</p>";
+    echo "<p>$mensaje</p>";
 
 ?>
