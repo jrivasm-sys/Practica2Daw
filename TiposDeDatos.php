@@ -10,5 +10,6 @@
 
     echo "<p>$mensaje</p>";
     echo "Cambios realizados en el archivo TiposDeDatos.php";
+//Cambios realizados en al rama de prueba
 
 ?>
