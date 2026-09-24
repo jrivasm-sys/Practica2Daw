@@ -9,5 +9,6 @@
     $mensaje .= " Maravilloso";
 
     echo "<p>$mensaje</p>";
+    echo "Cambios realizados en el archivo TiposDeDatos.php";
 
 ?>
